@@ -13,6 +13,15 @@ npm run build
 npm start
 ```
 
+
+## branch
+master
+dependabot/npm_and_yarn/path-parse-1.0.7
+dependabot/npm_and_yarn/normalize-url-4.5.1
+dependabot/npm_and_yarn/browserslist-4.16.6
+version-2018
+dependabot/npm_and_yarn/handlebars-4.7.7
+
 ## File Structure
 
 - database, it the folder with all the sql queries, you can use to recreate the database for this application
